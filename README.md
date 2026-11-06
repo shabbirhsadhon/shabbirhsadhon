@@ -39,11 +39,4 @@ New projects coming soon — stay tuned! 🚧
 
 ---
 
-### 📊 GitHub Stats
-
-![Shabbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=shabbirhsadhon&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shabbirhsadhon&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
----
-
 <p align="center">Thanks for visiting my profile! 😊</p>
