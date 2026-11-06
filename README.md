@@ -26,6 +26,8 @@ I'm a Data Science student who loves learning new things and building small, use
 
 ### 📌 Featured Projects
 
+- **[meal-tracker](https://github.com/shabbirhsadhon/meal-tracker)** — A perfect meal tracking solution for our bachelor home AlphA
+
 New projects coming soon — stay tuned! 🚧
 
 ---
