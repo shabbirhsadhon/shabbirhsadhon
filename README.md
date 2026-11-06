@@ -1,26 +1,24 @@
 # Hi there, I'm Shabbir Hossin Sadhon 👋
 
-### 💻 Student & Developer from Dhaka, Bangladesh
+### 🎓 Data Science Student at United International University (UIU), Dhaka, Bangladesh
 
-I'm a student who loves building small, useful things for everyday life — from tracking daily meals with friends to managing expenses. Currently exploring Web3 and the BNB ecosystem.
+I'm a Data Science student who loves learning new things and building small, useful projects along the way.
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **Meal Tracker** and **Expense Tracker** — simple tools for bachelor life
-- 🌱 I'm currently learning **JavaScript** and **Web3 / BSC**
-- 💬 Ask me about **HTML, CSS, JavaScript, and free BSC mints**
+- 🌱 I'm currently learning **Python**
+- 💬 Ask me about **Python** and **Web3**
+- 🌐 I'm interested in **Web3**
 - 📫 How to reach me: on Instagram **[@sha6__6ir](https://www.instagram.com/sha6__6ir)**
-- ⚡ Fun fact: I minted my first NFT for free — gas fee only!
 
 ---
 
 ### 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -28,8 +26,7 @@ I'm a student who loves building small, useful things for everyday life — from
 
 ### 📌 Featured Projects
 
-- **[meal-tracker](https://github.com/shabbirhsadhon/meal-tracker)** — A perfect meal tracking solution for our bachelor home AlphA
-- **[a2-expense-tracker](https://github.com/shabbirhsadhon/a2-expense-tracker)** — Daily expense tracker for better money management
+New projects coming soon — stay tuned! 🚧
 
 ---
 
